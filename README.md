@@ -1,9 +1,6 @@
 ## Welcome to GitHub Pages
 Greetings Random person
-You can use the [editor on GitHub](https://github.com/Xharax/Xharax.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/b74q" ></script>
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
