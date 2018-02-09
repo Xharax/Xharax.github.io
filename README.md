@@ -8,8 +8,6 @@ Greetings Random person
 
 ![filter](isaac.png?raw=true "Optional Title")
 
-
-
 <script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/parks/dinner-2" ></script>
 
 
